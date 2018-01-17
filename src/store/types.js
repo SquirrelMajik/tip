@@ -1,0 +1,4 @@
+export const SIDEBAR_INIT = 'SIDEBAR_INIT'
+export const SIDEBAR_TOGGLE = 'SIDEBAR_TOGGLE'
+export const SIDEBAR_SHOW = 'SIDEBAR_SHOW'
+export const SIDEBAR_HIDE = 'SIDEBAR_HIDE'
